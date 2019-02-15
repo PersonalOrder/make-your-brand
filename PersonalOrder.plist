@@ -11,7 +11,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>https://personalorder.github.io/make-your-brand/PersonalOrder_LS.ipa</string>
+                  <string>https://personalorder.github.io/make-your-brand/PersonalOrder.ipa</string>
               </dict>
           </array>
           <key>metadata</key>
@@ -19,7 +19,7 @@
               <key>bundle-identifier</key>
               <string>com.seiren.PersonalOrder-LS</string>
               <key>bundle-version</key>
-              <string>12.0.20190220</string>
+              <string>11.0.20181221</string>
               <key>kind</key>
               <string>software</string>
               <key>title</key>
