@@ -17,7 +17,7 @@
           <key>metadata</key>
           <dict>
               <key>bundle-identifier</key>
-              <string>com.seiren.PersonalOrder-LS</string>
+              <string>com.seiren.PersonalOrder</string>
               <key>bundle-version</key>
               <string>11.0.20181221</string>
               <key>kind</key>
